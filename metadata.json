@@ -1,0 +1,6 @@
+{
+  "name": "Webcam ASCII Art Studio",
+  "description": "Premium real-time Webcam to ASCII Art creative generator featuring responsive canvas rendering, color parameters, filters, and high-fidelity file exports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
